@@ -13,5 +13,5 @@ Just pushing forward my Python learning path solving katas from [Codewars](https
 I'm using simple interactive doctest:
 
 ```shell
-$ python -m doctest 6-kyu/to_camel_case.py
+$ python -m doctest 6_kyu/to_camel_case.py
 ```
